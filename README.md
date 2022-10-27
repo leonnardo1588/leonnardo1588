@@ -1,7 +1,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Leonardo1588&color=006bed)
 
-import Desenvolvedor from 'leonnardo1588';
+```js
+import Desenvolvedor from 'Leonnrdo11';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Leonardo Rodrigues';
@@ -9,11 +10,13 @@ class SobreMim extends Desenvolvedor {
   trabalho  = 'IBM Brasil';
   local = 'Remoto';
 }
+```
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
+  ![Cobol](https://img.shields.io/badge/-COBOL-red)
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
