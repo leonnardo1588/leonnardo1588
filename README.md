@@ -1,18 +1,20 @@
 
 ![](https://komarev.com/ghpvc/?username=Leonardo1588&color=006bed)
 
-<h3> 👨‍💼: &nbsp;Sobre mim </h3>
+import Desenvolvedor from 'leonnardo1588';
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SISTEMAS PARA INTERNET** no <a href="https://sp.senac.br">CENTRO UNIVERSITÁRIO SENAC</a>.
-- 💼 &nbsp; Trabalhando como **SOFTWARE DEVELOPER INTERN** na <a href="https://ibm.com">IBM Brasil</a>
-- 🌱 &nbsp; Aprendendo mais sobre **DESENVOLVIMENTO MOBILE e FRONT END**.
+class SobreMim extends Desenvolvedor {
+  nome     = 'Leonardo Rodrigues';
+  area    = 'Software Developer Intern';
+  trabalho  = 'IBM Brasil';
+  local = 'Remoto';
+}
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
 
- 
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -38,6 +40,7 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 <br/>
 
