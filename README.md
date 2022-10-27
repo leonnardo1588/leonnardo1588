@@ -55,5 +55,5 @@ class SobreMim extends Desenvolvedor {
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Leonardo Rodrigues](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-rodrigues-781747219/)](https://www.linkedin.com/in/leonardo-rodrigues-781747219/)
+[![Linkedin: Leonardo Rodrigues](https://img.shields.io/badge/-Leonardo Rodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-rodrigues-781747219/)](https://www.linkedin.com/in/leonardo-rodrigues-781747219/)
 
